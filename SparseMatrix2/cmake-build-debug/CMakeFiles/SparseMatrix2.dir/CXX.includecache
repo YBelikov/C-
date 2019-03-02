@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp/CLion  projects/SparseMatrix2/SparseMatrix.cpp
+SparseMatrix.h
+D:/cpp/CLion  projects/SparseMatrix2/SparseMatrix.h
+
+D:/cpp/CLion  projects/SparseMatrix2/SparseMatrix.h
+map
+-
+
+D:/cpp/CLion  projects/SparseMatrix2/main.cpp
+iostream
+-
+SparseMatrix.h
+D:/cpp/CLion  projects/SparseMatrix2/SparseMatrix.h
+

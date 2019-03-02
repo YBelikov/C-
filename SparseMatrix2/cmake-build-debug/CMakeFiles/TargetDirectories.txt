@@ -1,0 +1,3 @@
+D:/cpp/CLion  projects/SparseMatrix2/cmake-build-debug/CMakeFiles/SparseMatrix2.dir
+D:/cpp/CLion  projects/SparseMatrix2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpp/CLion  projects/SparseMatrix2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
